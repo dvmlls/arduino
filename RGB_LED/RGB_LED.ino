@@ -13,7 +13,7 @@ int green = 0;
 int blue = 0;
 
 int increment = 5;
-int sleep = 10;
+int sleep = 5;
 
 int segment = RED;
 
